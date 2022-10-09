@@ -1,5 +1,6 @@
 # **Basic Data Exploration with pandas on Bikeshare Data**
 A Python project using pandas to explore bikeshare data.
+![divvy](https://user-images.githubusercontent.com/91852444/194783535-a827c991-f571-4bb9-8168-2d403a84ba43.jpg)
 
 ## Project Overview
 This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
