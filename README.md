@@ -40,11 +40,9 @@ Language: Python 3.6 or above
 Libraries: pandas, numpy, time
 
 ## Project Data
-chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
-
-new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
-
-washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
+* chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
+* new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+* washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
 
 ## Built with
 Python 3.6.6 - The language used to develop this.
@@ -57,4 +55,3 @@ UmehBEE - Sole author for this program. Mentioned all the help received in 'Ackn
 ## Acknowledgements
 pandas docs - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
 Udacity - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
-Finally, I'd like to mention my college courses on Principles of Econometrics and Intermediary Econometrics for introducing me to data analysis and R programming. The concepts embodied in the pandas library (e.g. data frame) were very similar to the ones used while I was working on my R projects for college assignments.
