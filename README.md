@@ -1,5 +1,5 @@
 # **Basic Data Exploration with pandas on Bikeshare Data**
-A Python project using pandas to explore bikeshare data.
+A Python project using pandas to explore bikeshare data
 ![divvy](https://user-images.githubusercontent.com/91852444/194783535-a827c991-f571-4bb9-8168-2d403a84ba43.jpg)
 
 ## Project Overview
